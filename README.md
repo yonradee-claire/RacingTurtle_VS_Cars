@@ -2,6 +2,15 @@
 🐢 Turtle Crossing Game
 A fun arcade-style game built with Python and the turtle module, where the player controls a turtle trying to cross a busy road without getting hit by cars.
 
+💡 Concepts Used
+- Object-Oriented Programming (OOP)
+    - Classes, objects, methods
+    - Encapsulation and abstraction
+- Game loop (while loop with time.sleep())
+- Event handling (screen.onkey)
+- Collision detection
+- Modular programming (multiple Python files)
+  
 ▶️ How to Run
 1) Make sure you have Python/PyCharm installed.
 2) Clone or download this repository.
@@ -25,13 +34,7 @@ How to play this Game:
 - Difficulty scaling as levels increase.
 - Randomized car generation for replayability.
 
-💡 Concepts Used
-- Object-Oriented Programming (OOP)
-    - Classes, objects, methods
-    - Encapsulation and abstraction
-- Game loop (while loop with time.sleep())
-- Event handling (screen.onkey)
-- Collision detection
-- Modular programming (multiple Python files)
+
+
 
 
